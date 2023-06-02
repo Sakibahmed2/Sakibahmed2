@@ -1,6 +1,6 @@
 ### Hi there 👋, Sakib Aahmed Loskor
 #### I am a Web Developer
-![I am a Web Developer]([https://i.ibb.co/WcHp7Yj/Brown-White-Fluid-Marketing-Agency-Facebook-Cover.png](https://media.licdn.com/dms/image/D4E16AQEPLlyQroXdAA/profile-displaybackgroundimage-shrink_350_1400/0/1685685647951?e=1691020800&v=beta&t=YC5vunek1bDj6m1UmUQslf_et45SMCAbLnFu9spj7k8))
+![I am a Web Developer](https://media.licdn.com/dms/image/D4E16AQEPLlyQroXdAA/profile-displaybackgroundimage-shrink_350_1400/0/1685685647951?e=1691020800&v=beta&t=YC5vunek1bDj6m1UmUQslf_et45SMCAbLnFu9spj7k8)
 
 . I am familiar with ReactJS, ExpressJS, NodeJS, MongoDB and Javascript
 programming languages skills.
