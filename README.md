@@ -2,6 +2,22 @@
 <img src="https://raw.githubusercontent.com/Sakibahmed2/Sakibahmed2/main/images/cover.png" />
 </a>
 
+# Hi there✋, I am Sakib Ahmed Loskor
+
+### Frontend Developer
+
+🚀 Passionate Frontend Developer | React & Next.js | TypeScript 🌐
+
+🛠️ I use JavaScript and TypeScript like a pro builder uses their tools. I carefully craft digital solutions, paying attention to every detail. I'm all about making things perfect, so I take on challenges directly, working on my code until it's as good as it can be. It's like polishing a masterpiece until it shines bright for everyone to see.
+
+<h3 align="left"> 👀 Overview</h3>
+
+- 🔭 I’m currently free to Work.
+- 🌱 I’m currently learning Docker, React Native
+- 👯 I’m looking to collaborate on MERN Project
+- 💬 Ask me about Frontend Development
+- 📫 How to reach me: mauijaloskor@gmail.com
+
 ## 💹 Current Stats
 
 <br />
@@ -48,6 +64,3 @@
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
  
 </p>
-
-<h3 align="left"> 👀 Overview</h3>
- 🌱 I’m exploring - Advance frontend development.
