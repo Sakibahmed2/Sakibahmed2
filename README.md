@@ -4,9 +4,9 @@
 
 # Hi there✋, I am Sakib Ahmed Loskor
 
-### Frontend Developer
+### Full Stack Developer
 
-🚀 Passionate Frontend Developer | React & Next.js | TypeScript 🌐
+🚀 Passionate Full Stack Developer | React & Next.js | TypeScript 🌐 | Node.js & Express.js | Mongodb & Mongoose 
 
 🛠️ I use JavaScript and TypeScript like a pro builder uses their tools. I carefully craft digital solutions, paying attention to every detail. I'm all about making things perfect, so I take on challenges directly, working on my code until it's as good as it can be. It's like polishing a masterpiece until it shines bright for everyone to see.
 
@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Docker, React Native
 - 👯 I’m looking to collaborate on MERN Project
 - 💬 Ask me about Frontend Development
-- 📫 How to reach me: mauijaloskor@gmail.com
+- 📫 How to reach me: sakibloskor10@gmail.com
 
 ## 💹 Current Stats
 
